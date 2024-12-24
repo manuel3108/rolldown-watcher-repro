@@ -1,0 +1,17 @@
+{
+  "name": "rolldown-watcher-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rolldown --config",
+    "dev": "rolldown --watch --config"
+  },
+  "keywords": [ ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rolldown": "^0.15.1"
+  }
+}
